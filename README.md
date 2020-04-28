@@ -1,2 +1,0 @@
-# Android_apk_decompilation
-用于对Android渠道包的反编译，并通过apk的命名来对反编译内容进行对比，查看是否是对应的渠道包
